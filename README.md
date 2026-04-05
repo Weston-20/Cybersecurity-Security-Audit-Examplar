@@ -1,4 +1,6 @@
 # Cybersecurity-Security-Audit-Examplar
+Google Cybersecurity Certification Portfolio Project
+
 ## Summary
 This is the first portfolio activity from the Google Cybersecurity Professional Certification, a security audit on a fictitious toy store. The documentation included is the scope and goal of the audit, the control catagories the audit is measured by, and the results from the audit.
 
